@@ -1,1 +1,2 @@
 echo Conteúdo da linha 1 texto.txt
+echo Conteúdo da linha 2 texto.txt
